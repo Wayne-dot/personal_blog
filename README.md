@@ -1,1 +1,3 @@
-# personal_blog
+# Personal_blog
+
+Daily update blog for me

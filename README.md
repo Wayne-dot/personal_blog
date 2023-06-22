@@ -1,5 +1,5 @@
 ## Personal blog
-daily update blog from me
+Daily update blog from me
 
 <br>
 
